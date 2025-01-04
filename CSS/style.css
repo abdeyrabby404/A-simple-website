@@ -1,0 +1,11 @@
+h3{
+    background-color: red;
+    width: 300px;
+    align-items: center;
+}
+#center{
+    align-items: right;
+}
+*{
+    margin:0;
+}
